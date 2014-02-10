@@ -1,0 +1,21 @@
+{
+  "name": "ajaxformdata",
+  "version": "0.0.0",
+  "authors": [
+    "Eduardo Matos"
+  ],
+  "description": "requisicoes ajax com arquivos binarios",
+  "keywords": [
+    "ajax",
+    "formdata",
+    "dojo",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "http://eduardodematos.com/enviando-arquivos-binarios-em-requisicoes-ajax-com-dojo-e-jquery",
+  "private": true,
+  "dependencies": {
+    "dojo": "~1.9.2",
+    "jquery": "~2.1.0"
+  }
+}
