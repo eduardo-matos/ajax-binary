@@ -12,7 +12,7 @@
     "jquery"
   ],
   "license": "MIT",
-  "homepage": "http://eduardodematos.com/enviando-arquivos-binarios-em-requisicoes-ajax-com-dojo-e-jquery",
+  "homepage": "http://eduardo-matos.github.io/enviando-arquivos-binarios-em-requisicoes-ajax-com-dojo-e-jquery.html",
   "private": true,
   "dependencies": {
     "dojo": "~1.9.2",
